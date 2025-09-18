@@ -73,7 +73,7 @@ export default function SaudiMapButtons() {
             ></path>
             <text
               x="98%"
-              y="8%"
+              y="9%"
               text-anchor="middle"
               dominant-baseline="central"
               font-family={FrutigerLTArabic}
@@ -82,6 +82,21 @@ export default function SaudiMapButtons() {
             >
               الشمالية
             </text>
+            <svg
+              x={"95%"}
+              y={'3%'}
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="40"
+              height="40"
+            >
+              <path
+                fill="white"
+                fill-rule="evenodd"
+                d="M12 2a10 10 0 1 0 0 20a10 10 0 1 0 0-20Z
+           M10 8 L10 16 L16 12 Z"
+              />
+            </svg>
           </g>
 
           <g
@@ -115,6 +130,21 @@ export default function SaudiMapButtons() {
             >
               الغربية
             </text>
+                <svg
+              x={"88%"}
+              y={'24%'}
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="40"
+              height="40"
+            >
+              <path
+                fill="white"
+                fill-rule="evenodd"
+                d="M12 2a10 10 0 1 0 0 20a10 10 0 1 0 0-20Z
+           M10 8 L10 16 L16 12 Z"
+              />
+            </svg>
           </g>
 
           <g
@@ -142,7 +172,7 @@ export default function SaudiMapButtons() {
               class="region"
             ></path>
             <text
-              x="120%"
+              x="116%"
               y="54%"
               text-anchor="middle"
               dominant-baseline="central"
@@ -152,6 +182,21 @@ export default function SaudiMapButtons() {
             >
               الجنوبية
             </text>
+                <svg
+              x={"111%"}
+              y={'48%'}
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="40"
+              height="40"
+            >
+              <path
+                fill="white"
+                fill-rule="evenodd"
+                d="M12 2a10 10 0 1 0 0 20a10 10 0 1 0 0-20Z
+           M10 8 L10 16 L16 12 Z"
+              />
+            </svg>
           </g>
 
           <g
@@ -178,6 +223,21 @@ export default function SaudiMapButtons() {
             >
               الشرقية
             </text>
+                <svg
+              x={"152%"}
+              y={'36%'}
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="40"
+              height="40"
+            >
+              <path
+                fill="white"
+                fill-rule="evenodd"
+                d="M12 2a10 10 0 1 0 0 20a10 10 0 1 0 0-20Z
+           M10 8 L10 16 L16 12 Z"
+              />
+            </svg>
           </g>
 
           <g
@@ -212,6 +272,21 @@ export default function SaudiMapButtons() {
             >
               الوسطى
             </text>
+                <svg
+              x={"122%"}
+              y={'27%'}
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="40"
+              height="40"
+            >
+              <path
+                fill="black"
+                fill-rule="evenodd"
+                d="M12 2a10 10 0 1 0 0 20a10 10 0 1 0 0-20Z
+           M10 8 L10 16 L16 12 Z"
+              />
+            </svg>
           </g>
 
           {/*
